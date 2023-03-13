@@ -1,4 +1,4 @@
-state,households,pet_owning_households,dog_households,dog_population,cat_households,cat_population,pet_population,household type
+state,households,pet_owning_households,dog_households,dog_population,cat_households,cat_population,pet_population,household_type
 Alabama,1828,1088,807,1410,501,1252,2662,dog_households
 Arizona,2515,1497,1008,1798,743,1438,3236,dog_households
 Arkansas,1148,716,550,1097,351,810,1907,dog_households
